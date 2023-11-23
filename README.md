@@ -53,7 +53,7 @@ Les références exactes des composants sont marquées sur le schématique.
 ## Concepts à éclaircir et questions
 - Le branchement du JTAG est-il correct ?
 - Le SoC peut-il alimenter à la fois le buzzer et la LED ?
-- Le routage est-il correct ? Par exemple, le SoC est-il alimenté correctement puisque les VDD ont l'air d'être reliés à une horloge ?
+- Le routage est-il correct ? Par exemple, le SoC est-il alimenté correctement puisque les VDD ont l'air d'être reliés à SWDCLK ?
 - A quel point faut-il aller loin dans l'analyse dans caractéristiques techniques et le réalisme concernant les composants ? (ex : faut-il regarder les tensions de fonctionnement, la valeur des résistances, etc ?)
 - Comment marche réellement le JTAG, une machine vient se connecter sur le connecteur et programme le SoC ?
 - N'y a-t-il pas d'autres composants a rajouter ? Inductances, capacités, résistances qui permettent à ceux rajouter de fonctionner ? Notamment entre l'antenne et le Soc, ou autres ?
