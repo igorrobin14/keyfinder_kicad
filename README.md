@@ -3,7 +3,7 @@
 ## Igor Robin - ZZ2 - F1
 
 ### Contenu du dépôt
--```diagramme_originel.png``` et ```diagramme_modifie.pdf``` - Diagramme donné à titre d'exemple en cours et diagramme complété avec d'autres fonctionnalités
+- ```diagramme_originel.png``` et ```diagramme_modifie.pdf``` - Diagramme donné à titre d'exemple en cours et diagramme complété avec d'autres fonctionnalités
 - Les fichiers KiCad 7.0 correspondant au shématique, au circuit imprimé, ainsi qu'au projet lui-même
 - La sheet du Development Kit (PCA10040) de Nordic Semiconductors (PCA10040_Schematic_And_PCB.pdf)
 - Une photo du schématique
