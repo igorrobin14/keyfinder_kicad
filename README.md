@@ -59,4 +59,4 @@ Les références exactes des composants sont marquées sur le schématique.
 - N'y a-t-il pas d'autres composants a rajouter ? Inductances, capacités, résistances qui permettent à ceux rajouter de fonctionner ? Notamment entre l'antenne et le Soc, ou autres ?
 - Peut-on directement envoyer un signal au SoC avec le bouton 1 en reliant directement la pile au pin du SoC lorsque le bouton est appuyé ? Y a-t-il un risque de tension trop élevée/faible ?
 - Mettre un battery holder sur KiCad est-il correct ? Le grand trou dans le circuit imprimé est-il problématique ?
-- (Question de débutant) : différence entre une MCU, un SoC, un CPU, un processeur et un micro-contrôleur ?
+- (Question de débutant) : différence entre un MCU, un MPU, un SoC, un CPU, un processeur et un micro-contrôleur ?
