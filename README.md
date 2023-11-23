@@ -57,6 +57,7 @@ Les références exactes des composants sont marquées sur le schématique.
 - A quel point faut-il aller loin dans l'analyse dans caractéristiques techniques et le réalisme concernant les composants ? (ex : faut-il regarder les tensions de fonctionnement, la valeur des résistances, etc ?)
 - Comment marche réellement le JTAG, une machine vient se connecter sur le connecteur et programme le SoC ?
 - N'y a-t-il pas d'autres composants a rajouter ? Inductances, capacités, résistances qui permettent à ceux rajouter de fonctionner ? Notamment entre l'antenne et le Soc, ou autres ?
-- Peut-on directement envoyer un signal au SoC avec le bouton 1 en reliant directement la pile au pin du SoC lorsque le bouton est appuyé ? Y a-t-il un risque de tension trop élevée/faible ? 
+- Peut-on directement envoyer un signal au SoC avec le bouton 1 en reliant directement la pile au pin du SoC lorsque le bouton est appuyé ? Y a-t-il un risque de tension trop élevée/faible ?
+- (Question de débutant) : différence entre une MCU, un SoC, un CPU, un processeur et un micro-contrôleur ?
 
 
