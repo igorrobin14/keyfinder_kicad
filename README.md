@@ -24,7 +24,7 @@ Afin de trouver les composants requis, la méthode utilisée a été celle-ci : 
 
 De plus, les critères de sélection étaient les suivants :
 - Le composant est-il disponible sur les principaux sites web ?
-- Le composant est-il des dimensions acceptables ? (taille raisonnable, au maximum 12mm sur sa plus grande dimensions, sauf pour la pile)
+- Le composant a-t-il des dimensions acceptables ? (taille raisonnable, au maximum 12mm sur sa plus grande dimensions, sauf pour la pile)
 - A t-il les bonnes caractéristiques techniques ? (*Travail réalisé par un débutant et donc susceptible de contenir des erreurs, des confusions de termes et des points oubliés, notamment à ce niveau là*)
 
 ## LED
